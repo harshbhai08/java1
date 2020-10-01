@@ -1,4 +1,4 @@
-package com.harsh;
+
 import java.util.Scanner;
 public class ser
 {
